@@ -21,9 +21,22 @@
 ## Video 2
 - Linking CSS & JS files with HTML
 - For CSS : in `<head>` tag
-    ```<link rel="stylesheet" href="style.css">```
+    ```CSS link
+    <link rel="stylesheet" href="style.css">
+    ```
 - For JS : just before `</body>` tag
-    ```<script src="script.js"></script>```
+    ```JS link
+    <script src="script.js"></script>
+    ```
+
+## Video 3
+- Basic structure of HTML
+1. ```<!DOCTYPE html>``` - declaration informs the web browser about the HTML version being used.
+2. ```<html></html>``` - root element that encapsulates all the content on the page.
+3. ```<head></head>``` - contains metadata and links to external resources.
+4. ```<title></title>``` - sets the title of the web page.
+5. ```<body></body>``` - contains the visible content of the web page.
+
 
 ### CMD lines to push it on GitHub
 git status              --> to check <br>
