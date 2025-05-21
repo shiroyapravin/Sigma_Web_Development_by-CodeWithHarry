@@ -99,6 +99,15 @@
         ```
         <td colspan="value">
 
+## Video 6
+- SEO -> Search Engine Optimization
+- Core Web Vitals ->
+    1. CLS (Cumulative Layout Shift)
+    2. LCP (largest Contentful Paint)
+    3. INP (Interaction to Next Paint)
+- Lighthouse -> generate a report for website (option in inspect mode)
+- `<meta>` tags for SEO optimization of web
+
 ### CMD lines to push it on GitHub
 git status              --> to check <br>
 git add .               --> to add all files <br>
