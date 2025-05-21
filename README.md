@@ -1,26 +1,27 @@
-# fullstack
-Complete Note & Practice code for Full Stack Development
-
-This is complete Sigma Web Development Course by CodeWithHarry.
+# SWD COURSE
+- Complete Note & Practice Code
+- Sigma Web Development Course by CodeWithHarry
 
 # Video 1
-- Using **!** for boiler plate code in VSCode. <br>
-- Boiler Plate Code : <br>
-    <!DOCTYPE html> <br>
-        <html lang="en"> <br>
-        <head> <br>
-            <meta charset="UTF-8"> <br>
-            <meta name="viewport" content="width=device-width, initial-scale=1.0"> <br>
-            <title>Document</title> <br>
-        </head> <br>
-        <body> <br>
-        </body> <br>
+- Using **!** for boiler plate code in VSCode.
+- Boiler Plate Code :
+    <!DOCTYPE html>
+        <html lang="en">
+        <head>
+            <meta charset="UTF-8">
+            <meta name="viewport" content="width=device-width, initial-scale=1.0">
+            <title>Document</title>
+        </head>
+        <body>
+        </body>
     </html>
 
 # Video 2
-- Linking CSS & JS files with HTML <br>
-- For CSS : <link rel="stylesheet" href="style.css"> in <head> tag <br>
-- For JS : <script src="script.js"></script> just before </body> tag
+- Linking CSS & JS files with HTML
+- For CSS : in <head> tag
+    <link rel="stylesheet" href="style.css"> 
+- For JS : just before </body> tag
+    <script src="script.js"></script>
 
 # CMD lines to push it on GitHub
 git status              --> to check <br>
