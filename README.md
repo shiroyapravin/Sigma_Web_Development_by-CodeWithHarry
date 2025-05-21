@@ -7,7 +7,7 @@
 - Boiler Plate Code :
     ```HTML
     <!DOCTYPE html>
-        <html lang="en">
+        <html lang="en"> <!-- lang="en" is attribute -->
         <head>
             <meta charset="UTF-8">
             <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -20,11 +20,11 @@
 
 ## Video 2
 - Linking CSS & JS files with HTML
-- For CSS : in `<head>` tag
+- For CSS : in `<head>` tag <br>
     ```CSS link
     <link rel="stylesheet" href="style.css">
     ```
-- For JS : just before `</body>` tag
+- For JS : just before `</body>` tag <br>
     ```JS link
     <script src="script.js"></script>
     ```
@@ -37,6 +37,10 @@
 4. ```<title></title>``` - sets the title of the web page.
 5. ```<body></body>``` - contains the visible content of the web page.
 
+## Video 4
+- Heading Tags from `<H1>` to `<H6>`
+- Paragraph Tag `<P>`
+- Other values in one tag are called **Attributes**.
 
 ### CMD lines to push it on GitHub
 git status              --> to check <br>
