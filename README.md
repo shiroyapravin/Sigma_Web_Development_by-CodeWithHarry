@@ -50,6 +50,7 @@
     1. src for path to image
     2. alt for alter text if image is not available
     3. height & width attributes for image size
+    <br>
 - List Tag :
     1. Unorder List -
         ```ul list
@@ -60,12 +61,9 @@
     - can use type for bullet design
     <br>
     2. Order List -
-        ```ol list
-        <ol>
-            <li></li>
-        </ol>
-        ```
+        `<ol></ol>`
     - can use type for different orders
+    <br>
 - Table Tag :
     ```table
     <table>
@@ -91,7 +89,7 @@
     4. `<td>` for table data
     5. `<caption>` just for detail/heading line
     <br>
-    - Rowspan : ```<td rowspan="value">```
+    - Rowspan : ```<td rowspan="value">``` <br>
     - Colspan : ```<td colspan="value">```
 
 ### CMD lines to push it on GitHub
