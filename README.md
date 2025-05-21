@@ -108,6 +108,9 @@
 - Lighthouse -> generate a report for website (option in inspect mode)
 - `<meta>` tags for SEO optimization of web
 
+## Video 7
+- Form in HTML -> there are multiple types & attributes for `<input>` tag in form
+
 ### CMD lines to push it on GitHub
 git status              --> to check <br>
 git add .               --> to add all files <br>
