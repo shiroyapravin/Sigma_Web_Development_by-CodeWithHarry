@@ -42,6 +42,58 @@
 - Paragraph Tag `<P>`
 - Other values in one tag are called **Attributes**.
 
+## Video 5
+- Image Tag :
+    ```image tag
+    <img height="" width="" src="" alt="">
+    ```
+    1. src for path to image
+    2. alt for alter text if image is not available
+    3. height & width attributes for image size
+- List Tag :
+    1. Unorder List -
+        ```ul list
+        <ul>
+            <li></li>
+        </ul>
+        ```
+    - can use type for bullet design
+    <br>
+    2. Order List -
+        ```ol list
+        <ol>
+            <li></li>
+        </ol>
+        ```
+    - can use type for different orders
+- Table Tag :
+    ```table
+    <table>
+        <thead>
+            <caption></caption>
+        </thead>
+        <tbody>
+            <tr>
+                <th></th>
+            </tr>
+            <tr>
+                <td></td>
+            </tr>
+        </tbody>
+        <tfoot>
+            <!-- footer content -->
+        </tfoot>
+    </table>
+    ```
+    1. `<thead>`, `<tbody>` & `<tfooter>` to group the content of the table
+    2. `<tr>` for table row
+    3. `<th>` for table heading
+    4. `<td>` for table data
+    5. `<caption>` just for detail/heading line
+    <br>
+    - Rowspan : ```<td rowspan="value">```
+    - Colspan : ```<td colspan="value">```
+
 ### CMD lines to push it on GitHub
 git status              --> to check <br>
 git add .               --> to add all files <br>
