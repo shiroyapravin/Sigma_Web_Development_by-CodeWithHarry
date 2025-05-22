@@ -179,6 +179,36 @@
 ## Video 12
 - **Exercise No. 1** : Created media player with pure HTML
 
+## Video 13
+- **HTML Entities** :
+    1. HTML entities are used to represent special characters in a format that the browser can understand.
+    2. They start with an ampersand (&) and end with a semicolon (;).
+```entities
+&lt;  for <
+&gt;  for >
+&amp; for &
+&nbsp; for a non-breaking space
+&copy; for ©
+```
+---
+- **Quotation Tag** :
+    1. Using `<blockquote>` for Long Quotes
+    ```long quote
+    <blockquote cite="https://example.com">
+        This is a long quote from an external source. This quote can span multiple lines and paragraphs.
+    </blockquote>
+    ```
+
+    2. Using `<q>` for Short, Inline Quotes
+    ```short quote
+    The philosopher said, <q cite="https://example.com">The unexamined life is not worth living.</q>
+    ```
+---
+- **Code Tag** :
+    ```code tag
+    <pre><code>Your multiline code here</code></pre>
+    ```
+
 ### CMD lines to push it on GitHub
 git status              --> to check <br>
 git add .               --> to add all files <br>
