@@ -165,6 +165,17 @@
     ```iframe
     <iframe src="URL" width="width" height="height"></iframe>
 
+## Video 11
+- Semantic Tags in HTML
+- They enhance SEO, improve accessibility, and make your code easier to read and maintain.
+- Here are some commonly used semantic tags in HTML:
+    1. header: Contains introductory content.
+    2. footer: Holds footer information.
+    3. article: Encapsulates a self-contained composition.
+    4. section: Represents a standalone section.
+    5. aside: Contains content aside from the content it is placed in.
+    6. nav: Holds navigation links.
+
 ### CMD lines to push it on GitHub
 git status              --> to check <br>
 git add .               --> to add all files <br>
