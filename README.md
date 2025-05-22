@@ -213,6 +213,12 @@
 - Intro to **CSS (Cascading Style Sheets)**
 - HTML creates the structure of the page, while CSS adds styling to that structure.
 
+## Video 15
+- **3 Ways** to add CSS to HTML :
+    1. Inline CSS - not recommended (but useful sometimes)
+    2. Internal CSS - `<style></style>` tag in `<head>` section
+    3. External CSS - **style.css** linked with **index.html**
+
 ### CMD lines to push it on GitHub
 git status              --> to check <br>
 git add .               --> to add all files <br>
