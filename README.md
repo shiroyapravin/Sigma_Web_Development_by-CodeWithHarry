@@ -222,6 +222,23 @@
 ## Video 16
 - Solution video of Exercise No. 1
 
+## Video 17
+- **CSS Selectors** :
+    1. **Element selector** - selects the main element
+        - eg. p {}
+    2. **Class selector** - selects the class of elements
+        - eg. .red {}
+    3. **ID selector** - selects the id of elements
+        - eg. #std {}
+    4. **Child selector** - selects the child element of main element
+        - eg. div > p {}
+    5. **Descendant selector** - selects the descendant element of main element
+        - eg. div p {}
+    6. **Universal selector** - selects all the elements
+        - eg. * {}
+    7. **Pseudo selector**
+        - eg. p:second-child {}
+
 ### CMD lines to push it on GitHub
 git status              --> to check <br>
 git add .               --> to add all files <br>
