@@ -209,6 +209,10 @@
     <pre><code>Your multiline code here</code></pre>
     ```
 
+## Video 14
+- Intro to **CSS (Cascading Style Sheets)**
+- HTML creates the structure of the page, while CSS adds styling to that structure.
+
 ### CMD lines to push it on GitHub
 git status              --> to check <br>
 git add .               --> to add all files <br>
