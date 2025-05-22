@@ -123,6 +123,44 @@
 - id & class are attributes of element
 - id >>> class
 
+## Video 10
+- Video Tag
+    ```video
+    <video src="video.mp4" controls></video>
+    - src: Specifies the path to the video file.
+    - controls: Adds video controls, like play, pause, and volume.
+    - autoplay: Automatically starts playing the video when the page loads.
+    - loop: Repeats the video once it ends.
+    - muted: Mutes the video by default.
+    - poster: Specifies an image to be displayed before the video starts playing.
+    - width and height: Specifies the dimensions of the video.
+---
+- Audio Tag
+    ```audio
+    <audio src="audio.mp3" controls></audio>
+    - src: Specifies the path to the audio file.
+    - controls: Adds audio controls, like play, pause, and volume.
+    - autoplay: Automatically starts playing the audio when the page loads.
+    - loop: Repeats the audio once it ends.
+    - muted: Mutes the audio by default.
+    - preload: Specifies if and how the audio should be loaded when the page loads ('auto' 'metadata', 'none').
+---
+- SVG Formate of Image
+    ```image tag
+    <img src="image.svg" alt="Sample SVG">
+    ```image.svg
+    <svg xmlns="http://www.w3.org/2000/svg" height="100" width="100">
+        <circle cx="50" cy="50" r="40" stroke="black" stroke-width="3" fill="red" />
+    </svg>
+    ```inline svg
+    <svg height="100" width="100">
+        <circle cx="50" cy="50" r="40" stroke="black" stroke-width="3" fill="red" />
+    </svg>
+---
+- IFrame Tag (to embedd any web or video in html)
+    ```iframe
+    <iframe src="URL" width="width" height="height"></iframe>
+
 ### CMD lines to push it on GitHub
 git status              --> to check <br>
 git add .               --> to add all files <br>
