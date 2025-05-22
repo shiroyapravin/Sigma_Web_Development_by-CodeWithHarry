@@ -116,6 +116,13 @@
 - Block Elements in HTML
 (there are many inline & block elements in HTML, can read [HERE](https://www.w3schools.com/htmL/html_blocks.asp))
 
+## Video 9
+- ID -> every elements have unique ID
+- Class -> multiple elements have same class & multiple classes in one element
+- can use . for ID & # for class
+- id & class are attributes of element
+- id >>> class
+
 ### CMD lines to push it on GitHub
 git status              --> to check <br>
 git add .               --> to add all files <br>
