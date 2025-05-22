@@ -219,6 +219,9 @@
     2. Internal CSS - `<style></style>` tag in `<head>` section
     3. External CSS - **style.css** linked with **index.html**
 
+## Video 16
+- Solution video of Exercise No. 1
+
 ### CMD lines to push it on GitHub
 git status              --> to check <br>
 git add .               --> to add all files <br>
