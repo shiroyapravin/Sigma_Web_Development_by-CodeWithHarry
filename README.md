@@ -111,6 +111,11 @@
 ## Video 7
 - Form in HTML -> there are multiple types & attributes for `<input>` tag in form
 
+## Video 8
+- Inline Elements in HTML
+- Block Elements in HTML
+(there are many inline & block elements in HTML, can read [HERE](https://www.w3schools.com/htmL/html_blocks.asp))
+
 ### CMD lines to push it on GitHub
 git status              --> to check <br>
 git add .               --> to add all files <br>
