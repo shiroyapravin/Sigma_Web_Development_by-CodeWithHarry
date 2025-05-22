@@ -4,7 +4,7 @@
 
 ## Video 1
 - Using **!** for boiler plate code in VSCode.
-- Boiler Plate Code :
+- **Boiler Plate Code** :
     ```HTML
     <!DOCTYPE html>
         <html lang="en"> <!-- lang="en" is attribute -->
@@ -20,11 +20,11 @@
 
 ## Video 2
 - Linking CSS & JS files with HTML
-- For CSS : in `<head>` tag <br>
+- **For CSS** : in `<head>` tag <br>
     ```CSS link
     <link rel="stylesheet" href="style.css">
     ```
-- For JS : just before `</body>` tag <br>
+- **For JS** : just before `</body>` tag <br>
     ```JS link
     <script src="script.js"></script>
     ```
@@ -43,7 +43,7 @@
 - Other values in one tag are called **Attributes**.
 
 ## Video 5
-- Image Tag :
+- **Image Tag** :
     ```image tag
     <img height="" width="" src="" alt="">
     ```
@@ -51,7 +51,7 @@
     2. alt for alter text if image is not available
     3. height & width attributes for image size
 ---
-- List Tag :
+- **List Tag** :
     1. Unorder List -
         ```ul list
         <ul>
@@ -67,7 +67,7 @@
         ```
     - can use type for different orders
 ---
-- Table Tag :
+- **Table Tag** :
     ```table
     <table>
         <thead>
@@ -92,62 +92,62 @@
     4. `<td>` for table data
     5. `<caption>` just for detail/heading line
 
-    6. Rowspan :
+    6. **Rowspan** :
         ```
         <td rowspan="value">
-    7. Colspan :
+    7. **Colspan** :
         ```
         <td colspan="value">
 
 ## Video 6
-- SEO -> Search Engine Optimization
-- Core Web Vitals ->
+- **SEO** -> Search Engine Optimization
+- **Core Web Vitals** ->
     1. CLS (Cumulative Layout Shift)
     2. LCP (largest Contentful Paint)
     3. INP (Interaction to Next Paint)
-- Lighthouse -> generate a report for website (option in inspect mode)
+- **Lighthouse** -> generate a report for website (option in inspect mode)
 - `<meta>` tags for SEO optimization of web
 
 ## Video 7
-- Form in HTML -> there are multiple types & attributes for `<input>` tag in form
+- **Form** in HTML -> there are multiple types & attributes for `<input>` tag in form
 
 ## Video 8
-- Inline Elements in HTML
-- Block Elements in HTML
+- **Inline** Elements in HTML
+- **Block** Elements in HTML
 (there are many inline & block elements in HTML, can read [HERE](https://www.w3schools.com/htmL/html_blocks.asp))
 
 ## Video 9
-- ID -> every elements have unique ID
-- Class -> multiple elements have same class & multiple classes in one element
-- can use . for ID & # for class
+- **ID** -> every elements have unique ID
+- **Class** -> multiple elements have same class & multiple classes in one element
+- can use **.** for ID & **#** for class
 - id & class are attributes of element
-- id >>> class
+- **id >>> class**
 
 ## Video 10
-- Video Tag
+- **Video Tag**
     ```video
     <video src="video.mp4" controls></video>
     ```
-    - src: Specifies the path to the video file.
-    - controls: Adds video controls, like play, pause, and volume.
-    - autoplay: Automatically starts playing the video when the page loads.
-    - loop: Repeats the video once it ends.
-    - muted: Mutes the video by default.
-    - poster: Specifies an image to be displayed before the video starts playing.
-    - width and height: Specifies the dimensions of the video.
+    - **src**: Specifies the path to the video file.
+    - **controls**: Adds video controls, like play, pause, and volume.
+    - **autoplay**: Automatically starts playing the video when the page loads.
+    - **loop**: Repeats the video once it ends.
+    - **muted**: Mutes the video by default.
+    - **poster**: Specifies an image to be displayed before the video starts playing.
+    - **width and height**: Specifies the dimensions of the video.
 ---
-- Audio Tag
+- **Audio Tag**
     ```audio
     <audio src="audio.mp3" controls></audio>
     ```
-    - src: Specifies the path to the audio file.
-    - controls: Adds audio controls, like play, pause, and volume.
-    - autoplay: Automatically starts playing the audio when the page loads.
-    - loop: Repeats the audio once it ends.
-    - muted: Mutes the audio by default.
-    - preload: Specifies if and how the audio should be loaded when the page loads ('auto' 'metadata', 'none').
+    - **src**: Specifies the path to the audio file.
+    - **controls**: Adds audio controls, like play, pause, and volume.
+    - **autoplay**: Automatically starts playing the audio when the page loads.
+    - **loop**: Repeats the audio once it ends.
+    - **muted**: Mutes the audio by default.
+    - **preload**: Specifies if and how the audio should be loaded when the page loads ('auto' 'metadata', 'none').
 ---
-- SVG Formate of Image
+- **SVG Formate of Image**
     ```image tag
     <img src="image.svg" alt="Sample SVG">
     ```
@@ -161,20 +161,23 @@
         <circle cx="50" cy="50" r="40" stroke="black" stroke-width="3" fill="red" />
     </svg>
 ---
-- IFrame Tag (to embedd any web or video in html)
+- **IFrame Tag** (to embedd any web or video in html)
     ```iframe
     <iframe src="URL" width="width" height="height"></iframe>
 
 ## Video 11
-- Semantic Tags in HTML
+- **Semantic Tags** in HTML
 - They enhance SEO, improve accessibility, and make your code easier to read and maintain.
 - Here are some commonly used semantic tags in HTML:
-    1. header: Contains introductory content.
-    2. footer: Holds footer information.
-    3. article: Encapsulates a self-contained composition.
-    4. section: Represents a standalone section.
-    5. aside: Contains content aside from the content it is placed in.
-    6. nav: Holds navigation links.
+    1. **header**: Contains introductory content.
+    2. **footer**: Holds footer information.
+    3. **article**: Encapsulates a self-contained composition.
+    4. **section**: Represents a standalone section.
+    5. **aside**: Contains content aside from the content it is placed in.
+    6. **nav**: Holds navigation links.
+
+## Video 12
+- **Exercise No. 1** : Created media player with pure HTML
 
 ### CMD lines to push it on GitHub
 git status              --> to check <br>
