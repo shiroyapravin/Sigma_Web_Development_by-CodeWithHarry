@@ -127,6 +127,7 @@
 - Video Tag
     ```video
     <video src="video.mp4" controls></video>
+    ```
     - src: Specifies the path to the video file.
     - controls: Adds video controls, like play, pause, and volume.
     - autoplay: Automatically starts playing the video when the page loads.
@@ -138,6 +139,7 @@
 - Audio Tag
     ```audio
     <audio src="audio.mp3" controls></audio>
+    ```
     - src: Specifies the path to the audio file.
     - controls: Adds audio controls, like play, pause, and volume.
     - autoplay: Automatically starts playing the audio when the page loads.
@@ -148,10 +150,12 @@
 - SVG Formate of Image
     ```image tag
     <img src="image.svg" alt="Sample SVG">
+    ```
     ```image.svg
     <svg xmlns="http://www.w3.org/2000/svg" height="100" width="100">
         <circle cx="50" cy="50" r="40" stroke="black" stroke-width="3" fill="red" />
     </svg>
+    ```
     ```inline svg
     <svg height="100" width="100">
         <circle cx="50" cy="50" r="40" stroke="black" stroke-width="3" fill="red" />
