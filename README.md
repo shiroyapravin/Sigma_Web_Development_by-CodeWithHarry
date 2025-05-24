@@ -291,6 +291,9 @@
     color: hsl(0-360, 0-100%, 0-100%); (hue, saturation, lightness)
     ```
 
+## Video 20
+- **Exercise No. 2** : Simple CSS exercise
+
 ### CMD lines to push it on GitHub
 git status              --> to check <br>
 git add .               --> to add all files <br>

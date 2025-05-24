@@ -1,0 +1,9 @@
+p:first-child {
+    background-color: red;
+    color: yellow;
+}
+
+p {
+    background-color: blue;
+    color: white;
+}
