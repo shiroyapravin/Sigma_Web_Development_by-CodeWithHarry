@@ -252,6 +252,45 @@
         ```
 - **Margin Collapse** : For example, if one element has a margin of 50px and the adjacent element has a margin of 20px, the resulting margin between them will be 50px, not 70px.
 
+## Video 19
+- **Font** :
+    1. We can define multiple font family names separated by commas based on priority.
+    ```font fam
+    p {
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    }
+    ```
+    2. There are five **generic font family** names that serve as fallback options when specific fonts are not available: serif, sans-serif, monospace, cursive, fantasy
+    - **Tip:** It is recommended to end the font family with any of these generic font family names.
+    3. We can also use custom fonts for our websites. [Google Fonts](https://fonts.google.com)
+- **Font Properties** :
+    ```font prop
+    color: red;
+    font-size: small;
+    font-style: italic;
+    font-weight: 100;
+    font-family: font1, font2, font3;
+    ```
+---
+- **Text Properties** :
+    ```text prop
+    text-decoration: value;
+    text-align: value;
+    text-transform: value;
+    letter-spacing: 5px;
+    line-height: 3.5;
+    text-overflow: ellipsis;
+    ```
+---
+- **Color Properties** :
+    ```color prop
+    color: name;
+    color: #RRGGBB; (00 to FF)
+    color: rgb(0-255, 0-255, 0-255); (red, green, blue)
+    color: rgba(0-255, 0-255, 0-255, 0-1); (red, green, blue, opacity)
+    color: hsl(0-360, 0-100%, 0-100%); (hue, saturation, lightness)
+    ```
+
 ### CMD lines to push it on GitHub
 git status              --> to check <br>
 git add .               --> to add all files <br>

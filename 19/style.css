@@ -1,0 +1,19 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Baloo+Bhai+2:wght@400..800&display=swap'); */
+
+h1 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+p {
+    /* font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; */
+    font-family: "Baloo Bhai 2", sans-serif;
+}
+
+h2 {
+    /* color:darkred; */
+    /* color: #0BEE0B; */
+    /* color: rgb(76, 125, 59); */
+    /* color: rgba(255, 22, 5, 0.175) */
+    color: hsl(130, 61%, 44%);
+    background-color: rgb(76, 125, 59);
+}
