@@ -239,6 +239,19 @@
     7. **Pseudo selector**
         - eg. p:second-child {}
 
+## Video 18
+- **Box Model** :
+    1. **Padding** - between content & border
+    2. **Margin** - after border
+    3. **Border** - between padding & margin
+- **Total Width** = Width + Left Padding + Right Padding + Left Border + Right Border + Left Margin + Right Margin
+- **Total Height** = Height + Top Padding + Bottom Padding + Top Border + Bottom Border + Top Margin + Bottom Margin
+    - Here we can use this to maintain size
+        ```height
+        box-sizing: border-box;
+        ```
+- **Margin Collapse** : For example, if one element has a margin of 50px and the adjacent element has a margin of 20px, the resulting margin between them will be 50px, not 70px.
+
 ### CMD lines to push it on GitHub
 git status              --> to check <br>
 git add .               --> to add all files <br>
