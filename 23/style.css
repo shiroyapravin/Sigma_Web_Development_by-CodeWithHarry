@@ -1,0 +1,16 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.box {
+    border: 2px solid blue;
+    display: inline-block;
+    width: 350px;
+    padding: 45px;
+    margin: 35px;
+}
+
+.box1 {
+    display: none;
+}

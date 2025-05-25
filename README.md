@@ -306,7 +306,18 @@
     3. **vw** - width of the viewport
     4. **em** - relative to the font size of the parent element
     5. **rem** - relative to the font size of the root element
-    6. **%** - Relative to the parent element’s size.
+    6. **%** - relative to the parent element’s size
+
+## Video 23
+- **CSS Display Property** : (some shown here)
+    1. block
+    2. inline
+    3. inline-block
+    4. flex
+    5. inline-flex
+    6. grid
+    7. inline-grid
+    8. none
 
 ### CMD lines to push it on GitHub
 git status              --> to check <br>
