@@ -319,6 +319,21 @@
     7. inline-grid
     8. none
 
+## Video 24
+- **CSS Shadow & Outlins** :
+    1. **box-shadow**
+    ```shadow
+    box-shadow: h-offset v-offset blur spread color inset;
+    ```
+    2. **text-shadow**
+    ```shadow
+    text-shadow: h-offset v-offset blur color;
+    ```
+    3. **outline**
+    ```outline
+    outline: width style color;
+    ```
+
 ### CMD lines to push it on GitHub
 git status              --> to check <br>
 git add .               --> to add all files <br>
