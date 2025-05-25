@@ -295,9 +295,18 @@
 - **Exercise No. 2** : Simple CSS exercise
 
 ## Video 21
-- CSS Specificity & Cascade Algorithm : used to determine which css rule will be applied if there are multiple rules defiend.
-    1. inline style > id selector > class / attribute / pseudo selector > element selector > universal selector
-    2. !important - to override other rules
+- **CSS Specificity & Cascade Algorithm** : used to determine which css rule will be applied if there are multiple rules defiend.
+    1. **inline style > id selector > class / attribute / pseudo selector > element selector > universal selector**
+    2. **!important** - to override other rules
+
+## Video 22
+- **CSS Sizing Units** :
+    1. **px** - pixel
+    2. **vh** - height of the viewport
+    3. **vw** - width of the viewport
+    4. **em** - relative to the font size of the parent element
+    5. **rem** - relative to the font size of the root element
+    6. **%** - Relative to the parent element’s size.
 
 ### CMD lines to push it on GitHub
 git status              --> to check <br>
