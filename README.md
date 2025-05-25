@@ -294,6 +294,11 @@
 ## Video 20
 - **Exercise No. 2** : Simple CSS exercise
 
+## Video 21
+- CSS Specificity & Cascade Algorithm : used to determine which css rule will be applied if there are multiple rules defiend.
+    1. inline style > id selector > class / attribute / pseudo selector > element selector > universal selector
+    2. !important - to override other rules
+
 ### CMD lines to push it on GitHub
 git status              --> to check <br>
 git add .               --> to add all files <br>
