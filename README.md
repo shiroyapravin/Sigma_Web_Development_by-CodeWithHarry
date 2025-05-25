@@ -334,6 +334,9 @@
     outline: width style color;
     ```
 
+## Video 25
+- List Style : `list-style` and their properties used to style the list
+
 ### CMD lines to push it on GitHub
 git status              --> to check <br>
 git add .               --> to add all files <br>

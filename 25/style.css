@@ -1,0 +1,5 @@
+nav ul li {
+    list-style: linear-gradient(red, blue);
+    background-color: yellow;
+    list-style-position: inside;
+}
