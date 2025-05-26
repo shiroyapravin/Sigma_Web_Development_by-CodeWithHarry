@@ -337,6 +337,9 @@
 ## Video 25
 - **List Style** : `list-style` and their properties used to style the list
 
+## Video 26
+- **Overflow Property** : Sometimes, the content shown is too large to be visible in a single line or division of the website. So, to avoid the loss of that information, we can use the overflow property.
+
 ### CMD lines to push it on GitHub
 git status              --> to check <br>
 git add .               --> to add all files <br>
