@@ -343,6 +343,15 @@
 ## Video 27
 - Solution video of Exercise No. 2
 
+## Video 28
+- **CSS Position Properties** :
+    1. **Static** Position - by default
+    2. **Relative** Position - can change position using top, left, ...
+    3. **Absolute** Position - relative to parent
+    4. **Fixed** Position - fixed on page
+    5. **Sticky** Position - for navbar on page
+- transform, filter, perspective properties for positioned
+
 ### CMD lines to push it on GitHub
 git status              --> to check <br>
 git add .               --> to add all files <br>
