@@ -355,6 +355,23 @@
 ## Video 29
 - **Exercise No. 3** : Designing a card
 
+## Video 30
+- **CSS Variables** : Defined by CSS authors that represent specific values to be reused throughout a document
+- Eg.
+    1. **Defining variables** :
+    ```var
+    :root {
+        --main-bg-color: brown;
+    }
+    ```
+    2. **Using variables** :
+    ```var
+    details {
+        background-color: var(--main-bg-color);
+    }
+    ```
+- Variables are not only for color, we can use it for every property.
+
 ### CMD lines to push it on GitHub
 git status              --> to check <br>
 git add .               --> to add all files <br>
