@@ -407,6 +407,9 @@
 ## Video 36
 - Solution video of Exercise No. 4
 
+## Video 37
+- **Exercise No. 5** : Design this layout 
+
 ### CMD lines to push it on GitHub
 git status              --> to check <br>
 git add .               --> to add all files <br>
