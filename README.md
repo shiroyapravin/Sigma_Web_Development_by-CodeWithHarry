@@ -408,7 +408,23 @@
 - Solution video of Exercise No. 4
 
 ## Video 37
-- **Exercise No. 5** : Design this layout 
+- **Exercise No. 5** : Design this layout
+
+## Video 38
+- **CSS Flexbox** :
+    1. `display: flex;`
+    2. Flex Properties -
+        `flex-direction: row;`
+        `flex-wrap: wrap;`
+        `flex-flow: row wrap;`
+        `justify-content: center;`
+        `align-item: center;`
+        `align-content: center;`
+    3. Flex item Properties -
+        `order: 1;`
+        `flex-grow: 2;`
+        `flex-shrink: 2;`
+        `align-self: flex-end;`
 
 ### CMD lines to push it on GitHub
 git status              --> to check <br>
