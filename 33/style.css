@@ -4,27 +4,32 @@
 }
 
 :root {
-    --color: rgb(255, 0, 0);
-    --seccolor: rgb(255, 163, 163);
+    --pri-color: rgb(100, 141, 255);
+    --sec-color: rgb(196, 211, 253);
 }
 
-.nav {
-    background-color: var(--color);
-    color: white;
+body {
+    background-color: var(--sec-color);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
-ul {
-    display: flex;
-    list-style: none;
-    margin-left: 15px;
+nav {
+    background-color: var(--pri-color);
+    padding: 12px 0;
 }
 
 ul li {
-    margin: 2px 15px;
-    padding: 5px;
+    list-style: none;
+    display: inline;
+    padding: 25px;
+}
+
+ul li a {
+    color: white;
+    text-decoration: none;
 }
 
 ul li:hover {
-    background-color: var(--seccolor);
+    background-color: var(--sec-color);
     color: black;
 }
