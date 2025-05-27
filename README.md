@@ -372,6 +372,23 @@
     ```
 - Variables are not only for color, we can use it for every property.
 
+## Video 31
+- **CSS Media Query** : to make changes according to device's screen size
+- **Syntax** :
+    ```mediaq
+    @media not/only mediatype and (expressions) {
+        css code
+    }
+    ```
+- Eg. :
+    ```mediaq
+    @media only screen and (max-width: 450px) {
+        body {
+            background-color: red;
+        }
+    }
+    ```
+
 ### CMD lines to push it on GitHub
 git status              --> to check <br>
 git add .               --> to add all files <br>
