@@ -392,6 +392,9 @@
 ## Video 32
 - Solution video of Exercise No. 3
 
+## Video 33
+- **Exercise No. 4** : Multi Color Navbar
+
 ### CMD lines to push it on GitHub
 git status              --> to check <br>
 git add .               --> to add all files <br>
