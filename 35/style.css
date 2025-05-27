@@ -1,0 +1,38 @@
+/* .box:first-child {
+    background-color: red;
+} */
+
+/* .box::first-line {
+    color: yellow;
+} */
+
+/* .boxes * {
+    color: blue;
+    border: 2px solid black;
+} */
+
+/* [data-color="primary"] {
+    padding-top: 45px;
+} */
+
+/* .box:nth-child(even) {
+    background-color: blue;
+} */
+
+/* .boxes::before {
+    content: "I am good";
+    color: blue;
+}
+
+.boxes::after {
+    content: "I am also good";
+    color: red;
+} */
+
+/* ::selection {
+    color: aqua;
+} */
+
+input::placeholder {
+    color: blue;
+}

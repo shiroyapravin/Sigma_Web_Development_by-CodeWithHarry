@@ -401,6 +401,9 @@
         2. `display: flow-root`
         3. `clear: left;`
 
+## Video 35
+- **More on CSS Selectors** : there many ways to use selectors
+
 ### CMD lines to push it on GitHub
 git status              --> to check <br>
 git add .               --> to add all files <br>
