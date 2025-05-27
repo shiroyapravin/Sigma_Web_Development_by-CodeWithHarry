@@ -395,6 +395,12 @@
 ## Video 33
 - **Exercise No. 4** : Multi Color Navbar
 
+## Video 34
+- **CSS Float & Clear** : Just like how “wrap through” works in MS Word, the float property allows the balance between text and the image shown beside it
+- Eg.   1. `float: left;`
+        2. `display: flow-root`
+        3. `clear: left;`
+
 ### CMD lines to push it on GitHub
 git status              --> to check <br>
 git add .               --> to add all files <br>
