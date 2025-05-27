@@ -352,6 +352,9 @@
     5. **Sticky** Position - for navbar on page
 - transform, filter, perspective properties for positioned
 
+## Video 29
+- **Exercise No. 3** : Designing a card
+
 ### CMD lines to push it on GitHub
 git status              --> to check <br>
 git add .               --> to add all files <br>
