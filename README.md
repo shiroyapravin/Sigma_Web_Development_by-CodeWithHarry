@@ -451,6 +451,9 @@
     5. `transform-origin: value;`
 - The properties for 3D Transform are also identical; a new dimension z is included in it.
 
+## Video 43
+- Solution video of Exercise No. 6
+
 ### CMD lines to push it on GitHub
 git status              --> to check <br>
 git add .               --> to add all files <br>
