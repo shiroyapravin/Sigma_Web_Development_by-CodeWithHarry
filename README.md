@@ -439,6 +439,9 @@
 ## Video 40
 - Solution video of Exercise No. 5
 
+## Video 41
+- **Exercise No. 6** : Navbar using Flexbox
+
 ### CMD lines to push it on GitHub
 git status              --> to check <br>
 git add .               --> to add all files <br>
