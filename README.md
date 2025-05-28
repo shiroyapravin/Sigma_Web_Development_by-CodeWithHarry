@@ -426,6 +426,16 @@
         `flex-shrink: 2;`
         `align-self: flex-end;`
 
+## Video 39
+- **CSS Grid** :
+    1. `display: grid;`
+    2. `grid-row: 1/2;` -> row 1 to row 2
+    3. `grid-column: 1/3;` -> col 1 to col 3
+    4. `grid-template-columns: 120px 100px;` -> 1st col of 120px & 2nd col of 100px
+    5. `grid-template-area: "side article article";` -> 1st col side & another 2 col article
+- **CSS Unit** : **fr** (fraction) -> eg. 1fr 1fr 1fr means 1/3 1/3 1/3 of parent
+- **repeat function** : repeat(3, 1fr) -> repeat 1fr 3 time
+
 ### CMD lines to push it on GitHub
 git status              --> to check <br>
 git add .               --> to add all files <br>
