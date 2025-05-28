@@ -468,6 +468,15 @@
     transition-delay: 1s;
     ```
 
+## Video 46
+- **CSS Animation** : CSS Animations help to animate elements from one frame to another.
+1. Animation Name : `div { animation-name: demo; }`
+2. Key Frames : `@keyframes demo { from{} to{} }`
+3. Looping Animations : `{ animation-iteration-count: value; }`
+4. Animation Durations : `{ animation-duration: value(in sec); }`
+5. Other Properties : Animation Delay, Direction, Timing Function, Fill Mode
+- Animation Shorthand : `animation: name duration timing-function delay iteration-count direction fill-mode;`
+
 ### CMD lines to push it on GitHub
 git status              --> to check <br>
 git add .               --> to add all files <br>

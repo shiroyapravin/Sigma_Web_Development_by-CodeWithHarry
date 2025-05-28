@@ -1,0 +1,28 @@
+.container {
+    height: 80vh;
+    width: 30vw;
+    background-color: beige;
+}
+
+.box {
+    width: 45px;
+    height: 40px;
+    background-color: aqua;
+    /* animation-name: demoAnimation;
+    animation-duration: 1s;
+    animation-iteration-count: infinite;
+    animation-timing-function: cubic-bezier(0.19, 1.12, 0, 0.09);
+    animation-delay: 2s; */
+    animation: demoAnimation 1s ease-in 10s 10 alternate-reverse;
+}
+
+@keyframes demoAnimation {
+    from {
+        background-color: red;
+    }
+
+    to {
+        background-color: yellow;
+        transform: translateX(1000px);
+    }
+}
