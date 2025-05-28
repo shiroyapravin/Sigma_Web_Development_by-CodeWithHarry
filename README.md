@@ -436,6 +436,9 @@
 - **CSS Unit** : **fr** (fraction) -> eg. 1fr 1fr 1fr means 1/3 1/3 1/3 of parent
 - **repeat function** : repeat(3, 1fr) -> repeat 1fr 3 time
 
+## Video 40
+- Solution video of Exercise No. 5
+
 ### CMD lines to push it on GitHub
 git status              --> to check <br>
 git add .               --> to add all files <br>
