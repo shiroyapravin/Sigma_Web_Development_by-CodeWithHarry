@@ -454,6 +454,9 @@
 ## Video 43
 - Solution video of Exercise No. 6
 
+## Video 44
+- **Exercise No. 7** : Design the Grid
+
 ### CMD lines to push it on GitHub
 git status              --> to check <br>
 git add .               --> to add all files <br>
