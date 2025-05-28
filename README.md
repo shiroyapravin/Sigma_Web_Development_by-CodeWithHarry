@@ -442,6 +442,15 @@
 ## Video 41
 - **Exercise No. 6** : Navbar using Flexbox
 
+## Video 42
+- **CSS Transform** :
+    1. `transform: translate(x, y);`
+    2. `transform: rotate(value);`
+    3. `transform: scale(width, height);`
+    4. `transform: skew(val, val);`
+    5. `transform-origin: value;`
+- The properties for 3D Transform are also identical; a new dimension z is included in it.
+
 ### CMD lines to push it on GitHub
 git status              --> to check <br>
 git add .               --> to add all files <br>
