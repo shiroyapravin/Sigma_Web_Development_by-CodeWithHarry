@@ -477,7 +477,7 @@
 5. Other Properties : Animation Delay, Direction, Timing Function, Fill Mode
 - Animation Shorthand : `animation: name duration timing-function delay iteration-count direction fill-mode;`
 
-## Video 44
+## Video 47
 - Solution video of Exercise No. 7
 
 ### CMD lines to push it on GitHub
