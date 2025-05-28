@@ -457,6 +457,17 @@
 ## Video 44
 - **Exercise No. 7** : Design the Grid
 
+## Video 45
+- **CSS Transition Property** : Transitions control the ease of transformation from one style to another when we hover over that element.
+- Eg. : `transition: all 3s ease-in-out 1s;`
+- Same :
+    ```transition
+    transition-property: transform, background-color;
+    transition-duration: 3s;
+    transition-timing-function: ease-in-out;
+    transition-delay: 1s;
+    ```
+
 ### CMD lines to push it on GitHub
 git status              --> to check <br>
 git add .               --> to add all files <br>
