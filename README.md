@@ -480,6 +480,9 @@
 ## Video 47
 - Solution video of Exercise No. 7
 
+## Video 48
+- **Exercise No. 8** : Bounce Animation
+
 ### CMD lines to push it on GitHub
 git status              --> to check <br>
 git add .               --> to add all files <br>

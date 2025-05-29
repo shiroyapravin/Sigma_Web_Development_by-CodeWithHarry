@@ -1,0 +1,16 @@
+.container {
+    position: relative;
+    height: 80vh;
+    width: 80vw;
+    background-color: blue;
+}
+
+.box {
+    border-radius: 70px;
+    height: 120px;
+    width: 120px;
+    position: absolute;
+    background-color: red;
+    bottom: 0;
+    left: 0;
+}
