@@ -504,6 +504,9 @@
 ## Video 51
 - Solution video of Exercise No. 8
 
+## Video 52
+- Basics of Figma
+
 ### CMD lines to push it on GitHub
 git status              --> to check <br>
 git add .               --> to add all files <br>
