@@ -1,0 +1,16 @@
+.container {
+    height: 620px;
+    width: 680px;
+    border: 2px solid black;
+    /* background-color: aquamarine; */
+    background-image: url("https://png.pngtree.com/background/20230412/original/pngtree-nature-forest-sun-ecology-picture-image_2394782.jpg");
+}
+
+img {
+    height: 450px;
+    width: 480px;
+    object-fit: cover;
+    object-position: top left;
+    /* object-fit: contain; */
+    /* object-fit: fill; */
+}

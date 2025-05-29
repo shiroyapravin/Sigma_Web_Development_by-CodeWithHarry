@@ -483,6 +483,15 @@
 ## Video 48
 - **Exercise No. 8** : Bounce Animation
 
+## Video 49
+- **CSS Object Fit & Position** :
+    1. `object-fit: cover/contain/fill etc.` -> to fit the content according to size
+    2. `object-position: top right/center etc.` -> for position if using cover fit
+- **Background Image Property** :
+    1. `background-image: ;` -> to set image background
+    2. `background-position: ;` -> same as object position
+    3. `background-repeat: ;` -> to repeat or not the bg
+
 ### CMD lines to push it on GitHub
 git status              --> to check <br>
 git add .               --> to add all files <br>
