@@ -501,6 +501,9 @@
     4. `filter: invert();`
     5. `filter: opacity();` & many
 
+## Video 51
+- Solution video of Exercise No. 8
+
 ### CMD lines to push it on GitHub
 git status              --> to check <br>
 git add .               --> to add all files <br>
