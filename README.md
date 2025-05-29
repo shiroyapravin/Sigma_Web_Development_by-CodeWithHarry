@@ -492,6 +492,15 @@
     2. `background-position: ;` -> same as object position
     3. `background-repeat: ;` -> to repeat or not the bg
 
+## Video 50
+- **CSS Filters** :
+- **Syntax** : `filter: ;`
+    1. `filter: blur();`
+    2. `filter: brightness();`
+    3. `filter: contrast();`
+    4. `filter: invert();`
+    5. `filter: opacity();` & many
+
 ### CMD lines to push it on GitHub
 git status              --> to check <br>
 git add .               --> to add all files <br>
