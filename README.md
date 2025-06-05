@@ -510,6 +510,13 @@
 ## Video 53
 - Project No. 1 : Netflix Clone using HTML & CSS
 
+## Video 54
+- **Introduction to JavaScript**
+- **Integrating JS in HTML**
+- **Console.log & Some basics**
+- **Installing Node JS**
+- **Changing Style using JS**
+
 ### CMD lines to push it on GitHub
 git status              --> to check <br>
 git add .               --> to add all files <br>
