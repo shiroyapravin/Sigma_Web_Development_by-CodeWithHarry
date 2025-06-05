@@ -168,7 +168,7 @@ nav button {
 }
 
 .film-cards li img {
-    width: 160px;
+    width: 190px;
     border-radius: 6px;
 }
 
@@ -250,18 +250,14 @@ footer .questions {
     padding: 34px 0;
 }
 
-
 .footer {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr 1fr;
     color: gainsboro;
 }
 
-
-
 @media screen and (max-width: 1300px) {
-
-    nav{
+    nav {
         max-width: 90vw;
     }
 
@@ -304,27 +300,147 @@ footer .questions {
 
     footer {
         max-width: 90vw;
-        padding: 75px 0;
+        padding: 0 0 50px 0;
     }
 
-    .footer-item{
+    .footer-item {
         align-items: center;
     }
- 
-
 }
 
+@media screen and (min-width: 1900px) {
 
+    .film-cards li:nth-child(7),
+    li:nth-child(8),
+    li:nth-child(9) {
+        display: none;
+    }
+
+    footer {
+        padding: 0 0 70px 0;
+    }
+}
+
+@media screen and (max-width: 1440px) {
+
+    .film-cards li:nth-child(5),
+    li:nth-child(6),
+    li:nth-child(7),
+    li:nth-child(8),
+    li:nth-child(9) {
+        display: none;
+    }
+}
+
+@media screen and (max-width: 1024px) {
+
+    .film-cards li:nth-child(5),
+    li:nth-child(6),
+    li:nth-child(7),
+    li:nth-child(8),
+    li:nth-child(9) {
+        display: none;
+    }
+
+    .film-cards li img {
+        width: 128px;
+    }
+}
+
+@media screen and (max-width: 320px) {
+
+    .logo {
+        width: 95px;
+    }
+
+    .main nav div {
+        display: flex;
+        align-items: center;
+    }
+
+    .btn-white {
+        font-size: 0;
+    }
+
+    .btn-red-sm {
+        font-size: 12px;
+    }
+
+    .hero span:nth-child(1) {
+        font-size: 31px;
+    }
+
+    .hero span:nth-child(2) {
+        font-size: 16px;
+    }
+
+    .hero span:nth-child(3) {
+        font-size: 16px;
+    }
+
+    .hero div {
+        flex-direction: column;
+    }
+
+    .btn-red {
+        padding: 8px 8px;
+    }
+
+    .main input {
+        padding: 12px 70px 12px 10px;
+    }
+
+    .firstsec {
+        font-size: large;
+        padding: 30px 25px;
+    }
+
+    .film-cards {
+        padding: 15px 0;
+    }
+
+    .film-cards li:nth-child(3),
+    li:nth-child(4),
+    li:nth-child(5),
+    li:nth-child(6),
+    li:nth-child(7),
+    li:nth-child(8),
+    li:nth-child(9),
+    li:nth-child(10) {
+        display: none;
+    }
+
+    .faq {
+        font-size: medium;
+        padding: 0px 25px;
+    }
+
+    .faqbox {
+        justify-content: space-between;
+        align-items: center;
+        padding: 14px 10px;
+    }
+
+    .faqbox svg {
+        width: 30px;
+    }
+
+    .subscribe div {
+        flex-direction: column;
+    }
+
+    .subscribe input {
+        padding: 12px 70px 12px 10px;
+    }
+}
 
 @media screen and (max-width: 1300px) {
-
     .footer {
         display: grid;
         grid-template-columns: 1fr 1fr;
         gap: 25px;
     }
 }
-
 
 .footer a {
     font-size: 14px;
