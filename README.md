@@ -517,6 +517,10 @@
 - **Installing Node JS**
 - **Changing Style using JS**
 
+## Video 55
+- **Variables in JavaScript**
+- **Data Types & Object in JS**
+
 ### CMD lines to push it on GitHub
 git status              --> to check <br>
 git add .               --> to add all files <br>
