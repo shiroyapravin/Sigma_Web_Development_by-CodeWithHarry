@@ -521,6 +521,10 @@
 - **Variables in JavaScript**
 - **Data Types & Object in JS**
 
+## Video 56
+- **Operators**
+- **Conditionals**
+
 ### CMD lines to push it on GitHub
 git status              --> to check <br>
 git add .               --> to add all files <br>
