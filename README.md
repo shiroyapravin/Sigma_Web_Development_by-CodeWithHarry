@@ -528,6 +528,9 @@
 ## Video 57
 - **Loops in JS**
 
+## Video 58
+- **JS Functions**
+
 ### CMD lines to push it on GitHub
 git status              --> to check <br>
 git add .               --> to add all files <br>
