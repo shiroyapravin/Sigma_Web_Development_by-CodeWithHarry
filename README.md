@@ -531,6 +531,9 @@
 ## Video 58
 - **JS Functions**
 
+## Video 59
+- **Exercise No. 9** : Faulty Calculator using JS
+
 ### CMD lines to push it on GitHub
 git status              --> to check <br>
 git add .               --> to add all files <br>
