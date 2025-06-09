@@ -537,6 +537,9 @@
 ## Video 60
 - **Strings in JavaScript**
 
+## Video 61
+- Solution video of Exercise No. 9
+
 ### CMD lines to push it on GitHub
 git status              --> to check <br>
 git add .               --> to add all files <br>

@@ -1,0 +1,1 @@
+console.log("Solution of Exercise no. 9");
