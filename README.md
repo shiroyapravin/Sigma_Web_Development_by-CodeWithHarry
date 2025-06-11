@@ -540,6 +540,9 @@
 ## Video 61
 - Solution video of Exercise No. 9
 
+## Video 62
+- **Exercise No. 10** : Business Name Generator
+
 ### CMD lines to push it on GitHub
 git status              --> to check <br>
 git add .               --> to add all files <br>
