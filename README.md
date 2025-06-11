@@ -543,6 +543,9 @@
 ## Video 62
 - **Exercise No. 10** : Business Name Generator
 
+## Video 63
+- **Arrays in JS**
+
 ### CMD lines to push it on GitHub
 git status              --> to check <br>
 git add .               --> to add all files <br>
