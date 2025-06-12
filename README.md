@@ -546,6 +546,9 @@
 ## Video 63
 - **Arrays in JS**
 
+## Video 64
+- Solution video of Exercise No. 10
+
 ### CMD lines to push it on GitHub
 git status              --> to check <br>
 git add .               --> to add all files <br>
