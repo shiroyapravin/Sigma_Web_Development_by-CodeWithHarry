@@ -549,6 +549,9 @@
 ## Video 64
 - Solution video of Exercise No. 10
 
+## Video 65
+- **Exercise No. 11** : Calculate the Factorial
+
 ### CMD lines to push it on GitHub
 git status              --> to check <br>
 git add .               --> to add all files <br>
