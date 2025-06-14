@@ -552,6 +552,9 @@
 ## Video 65
 - **Exercise No. 11** : Calculate the Factorial
 
+## Video 66
+- **Introduction to DOM in JS**
+
 ### CMD lines to push it on GitHub
 git status              --> to check <br>
 git add .               --> to add all files <br>
