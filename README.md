@@ -555,6 +555,9 @@
 ## Video 66
 - **Introduction to DOM in JS**
 
+## Video 67
+- **JS DOM - Parent, Children & Sibling nodes**
+
 ### CMD lines to push it on GitHub
 git status              --> to check <br>
 git add .               --> to add all files <br>
