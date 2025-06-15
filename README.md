@@ -561,6 +561,9 @@
 ## Video 68
 - **JS - Selecting by IDs, Classes & More**
 
+## Video 69
+- Solution video of Exercise No. 11
+
 ### CMD lines to push it on GitHub
 git status              --> to check <br>
 git add .               --> to add all files <br>
