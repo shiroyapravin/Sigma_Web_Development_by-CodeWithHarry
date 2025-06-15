@@ -558,6 +558,9 @@
 ## Video 67
 - **JS DOM - Parent, Children & Sibling nodes**
 
+## Video 68
+- **JS - Selecting by IDs, Classes & More**
+
 ### CMD lines to push it on GitHub
 git status              --> to check <br>
 git add .               --> to add all files <br>
