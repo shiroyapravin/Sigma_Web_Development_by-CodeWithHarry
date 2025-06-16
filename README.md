@@ -571,6 +571,9 @@
 - **Inserting & Removing Elements using JS**
 - **DOM Properties**
 
+## Video 72
+- Solution video of Exercise No. 12
+
 ### CMD lines to push it on GitHub
 git status              --> to check <br>
 git add .               --> to add all files <br>
