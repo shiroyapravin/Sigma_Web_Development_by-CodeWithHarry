@@ -564,6 +564,9 @@
 ## Video 69
 - Solution video of Exercise No. 11
 
+## Video 70
+- **Exercise No. 12** : Color the Boxes using DOM
+
 ### CMD lines to push it on GitHub
 git status              --> to check <br>
 git add .               --> to add all files <br>
