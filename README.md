@@ -567,6 +567,10 @@
 ## Video 70
 - **Exercise No. 12** : Color the Boxes using DOM
 
+## Video 71
+- **Inserting & Removing Elements using JS**
+- **DOM Properties**
+
 ### CMD lines to push it on GitHub
 git status              --> to check <br>
 git add .               --> to add all files <br>
