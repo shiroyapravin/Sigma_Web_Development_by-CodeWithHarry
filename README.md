@@ -577,6 +577,10 @@
 ## Video 73
 - **Exercise No. 13** : Dynamic Website Building
 
+## Video 74
+- **Events & Event Bubbling**
+- **setInterval & setTimeout**
+
 ### CMD lines to push it on GitHub
 git status              --> to check <br>
 git add .               --> to add all files <br>
