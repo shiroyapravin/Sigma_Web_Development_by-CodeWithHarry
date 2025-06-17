@@ -581,6 +581,9 @@
 - **Events & Event Bubbling**
 - **setInterval & setTimeout**
 
+## Video 75
+- **Callbacks & Promises**
+
 ### CMD lines to push it on GitHub
 git status              --> to check <br>
 git add .               --> to add all files <br>
