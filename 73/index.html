@@ -6,10 +6,71 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Exercise - 13</title>
     <!-- Dynamic Website Building -->
+    <style>
+        .number {
+            display: flex;
+            align-items: center;
+            padding: 15px;
+        }
+
+        .card {
+            position: relative;
+            border-radius: 10px;
+            display: flex;
+            border: 2px solid black;
+            margin-bottom: 10px;
+        }
+
+        .image {
+            position: relative;
+        }
+
+        .capsule {
+            font-weight: bold;
+            font-size: smaller;
+            padding: 2px 3px;
+            border-radius: 3px;
+            background-color: rgba(0, 0, 0, 0.6);
+            color: white;
+            position: absolute;
+            z-index: 10;
+            bottom: 10px;
+            right: 10px;
+        }
+
+        img {
+            border-radius: 10px;
+            width: 200px;
+            margin: 5px 5px 5px 0;
+            display: flex;
+        }
+
+        .text h2 {
+            margin: 5px 0 8px;
+        }
+
+        .text p {
+            opacity: 0.7;
+            margin: 5px 0 8px;
+        }
+    </style>
 </head>
 
 <body>
-    <div class="container"></div>
+    <div class="container">
+        <div class="card">
+            <div class="number">1</div>
+            <div class="image">
+                <img src="https://i.ytimg.com/vi/tVzUXW6siu0/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLACwWOixJVrKLFindK92kYMgTcQbw"
+                    alt="">
+                <div class="capsule">30:06</div>
+            </div>
+            <div class="text">
+                <h2>Introduction to Backend | Sigma Web Dev video #1</h2>
+                <p>CodeWithHarry • 560K views • 2 months ago</p>
+            </div>
+        </div>
+    </div>
     <script src="script.js"></script>
 </body>
 

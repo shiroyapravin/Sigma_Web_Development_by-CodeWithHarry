@@ -587,6 +587,9 @@
 ## Video 76
 - **Async/Await & Fetch API in JS**
 
+## Video 77
+- Solution video of Exercise No. 13
+
 ### CMD lines to push it on GitHub
 git status              --> to check <br>
 git add .               --> to add all files <br>
