@@ -584,6 +584,9 @@
 ## Video 75
 - **Callbacks & Promises**
 
+## Video 76
+- **Async/Await & Fetch API in JS**
+
 ### CMD lines to push it on GitHub
 git status              --> to check <br>
 git add .               --> to add all files <br>
