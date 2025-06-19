@@ -590,6 +590,9 @@
 ## Video 77
 - Solution video of Exercise No. 13
 
+## Video 78
+- **Exercise No. 14** : Hacking Terminal
+
 ### CMD lines to push it on GitHub
 git status              --> to check <br>
 git add .               --> to add all files <br>
