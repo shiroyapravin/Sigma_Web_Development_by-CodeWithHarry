@@ -596,6 +596,10 @@
 ## Video 79
 - **Try catch & Error handling**
 
+## Video 80
+- **OOP in JS**
+- **Classes & Objects**
+
 ### CMD lines to push it on GitHub
 git status              --> to check <br>
 git add .               --> to add all files <br>
