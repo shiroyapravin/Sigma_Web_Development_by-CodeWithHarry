@@ -600,6 +600,9 @@
 - **OOP in JS**
 - **Classes & Objects**
 
+## Video 81
+- Solution video of Exercise No. 14
+
 ### CMD lines to push it on GitHub
 git status              --> to check <br>
 git add .               --> to add all files <br>
