@@ -593,6 +593,9 @@
 ## Video 78
 - **Exercise No. 14** : Hacking Terminal
 
+## Video 79
+- **Try catch & Error handling**
+
 ### CMD lines to push it on GitHub
 git status              --> to check <br>
 git add .               --> to add all files <br>
