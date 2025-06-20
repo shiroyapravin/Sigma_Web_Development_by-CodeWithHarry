@@ -606,6 +606,9 @@
 ## Video 82
 - **Advanced JavaScript**
 
+## Video 83
+- **JS Interview Questions**
+
 ### CMD lines to push it on GitHub
 git status              --> to check <br>
 git add .               --> to add all files <br>
