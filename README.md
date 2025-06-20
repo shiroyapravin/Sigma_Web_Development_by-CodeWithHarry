@@ -603,6 +603,9 @@
 ## Video 81
 - Solution video of Exercise No. 14
 
+## Video 82
+- **Advanced JavaScript**
+
 ### CMD lines to push it on GitHub
 git status              --> to check <br>
 git add .               --> to add all files <br>
