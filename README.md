@@ -609,6 +609,9 @@
 ## Video 83
 - **JS Interview Questions**
 
+## Video 84
+- Project No. 2 : Spotify Clone
+
 ### CMD lines to push it on GitHub
 git status              --> to check <br>
 git add .               --> to add all files <br>
