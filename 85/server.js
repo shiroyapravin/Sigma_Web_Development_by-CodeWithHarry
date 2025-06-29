@@ -1,3 +1,5 @@
+// install - slugify
+
 var slugify = require('slugify')
 
 let a = slugify('some string') // some-string
